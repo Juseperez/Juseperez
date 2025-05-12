@@ -4,10 +4,16 @@ proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
+* [Tecnologías](#tecnologías)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
+* Nombre: Juan Sebastián Pérez Zamora
+* Ocupación: Estudiante de Ingeniería en computación
+* Correo: jusepere@espol.edu.ec
+## Tecnologías
+*
+*
+*
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
