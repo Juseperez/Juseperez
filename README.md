@@ -11,10 +11,14 @@ proyectos y mis intereses.
 * Ocupación: Estudiante de Ingeniería en computación
 * Correo: jusepere@espol.edu.ec
 ## Tecnologías
-*
-*
-*
+* MySQL
+* Java
+* Python
 ## Proyectos
-* [Lista de tus proyectos]
+* [Sistema de contactos usando Estructura de Datos](https://github.com/Juseperez/EstructurasProyecto)
+* [Base de datos para una Clinica Dental usando MySQL](https://github.com/SKEIILAT/proyectoBD)
+* [Juego de fichas domino, usando Programación Orientada a Objetos](https://github.com/Juseperez/ProyectoFicha)
 ## Intereses
-* [Lista de tus intereses]
+* Crear un sitio web
+* Crear una aplicación para móbiles
+* Diseñar y crear un juego
