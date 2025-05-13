@@ -38,7 +38,6 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ### 2. [Base de datos para una Clínica Dental usando MySQL](https://github.com/SKEIILAT/proyectoBD)
 - **Estado:** Terminado ✅
 - **Descripción:** Proyecto que desarrolla una base de datos completa para la gestión de pacientes, citas y tratamientos en una clínica dental, utilizando MySQL para garantizar la integridad y eficiencia de los datos.
-- **Imagen:**
   ![Base de datos clínica dental](images/basedatos.png)
 
 ---
