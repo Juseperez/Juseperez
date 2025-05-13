@@ -29,6 +29,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### 1. [Sistema de contactos usando Estructura de Datos](https://github.com/Juseperez/EstructurasProyecto)
 - **Estado:** Terminado ✅
+- **Integrantes:** [Juseperez](https://github.com/Juseperez), [Jorge Bravo](https://github.com/Reload2704), [kimi2123](https://github.com/kimi2123), [Ricardo24A](https://github.com/Ricardo24A)
 - **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas, iteradores y comparadores para optimizar la búsqueda y organización de contactos en Java. <br>
   ![Sistema de contactos](images/estructura.PNG)
 
@@ -36,6 +37,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### 2. [Base de datos para una Clínica Dental usando MySQL](https://github.com/SKEIILAT/proyectoBD)
 - **Estado:** Terminado ✅
+- **Integrantes:** [Juseperez](https://github.com/Juseperez), [JairPalaguachi](https://github.com/JairPalaguachi), [Javier Alejandro](https://github.com/SKEIILAT), [LuisRoca09](https://github.com/LuisRoca09)
 - **Descripción:** Proyecto que desarrolla una base de datos que permite agregar, editar, actualizar, eliminar y hacer consultas de pacientes, dentistas, citas y tratamientos en una clínica dental, utilizando MySQL para garantizar la integridad y eficiencia de los datos y la interface fue creada en Python. <br>
 
 
@@ -45,13 +47,13 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### 3. [Juego de fichas dominó, usando Programación Orientada a Objetos](https://github.com/Juseperez/ProyectoFicha)
 - **Estado:** Terminado ✅
-- **Descripción:** Un juego de dominó desarrollado en Java, aplicando principios de programación orientada a objetos para modelar las fichas, las reglas del juego y la interacción entre los jugadores. <br>
+- **Integrantes:** [Juseperez](https://github.com/Juseperez), [Sialmeid2003](https://github.com/Sialmeid2003)
+- **Descripción:** Un juego de dominó desarrollado en Java, aplicando principios de programación orientada a objetos para colocar las fichas, las reglas del juego, la interface usando JavaFX y las jugadas que toma el bot jugador. <br>
 
   ![Juego de dominó](images/ficha.PNG)
 
 ---
 
 ## Intereses
-- Crear un sitio web
-- Crear una aplicación para móviles
-- Diseñar y crear un juego
+- Aprender nuevas tecnologías
+- Jugar con la IA para tener nuevos conocimientos
