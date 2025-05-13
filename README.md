@@ -31,7 +31,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - **Estado:** Terminado ✅
 - **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas y árboles binarios para optimizar la búsqueda y organización de contactos.
 - **Imagen:**
-  ![Sistema de contactos](https://via.placeholder.com/600x300?text=Imagen+del+proyecto)
+  ![Sistema de contactos](images/estructura.png)
 
 ---
 
@@ -39,7 +39,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - **Estado:** Terminado ✅
 - **Descripción:** Proyecto que desarrolla una base de datos completa para la gestión de pacientes, citas y tratamientos en una clínica dental, utilizando MySQL para garantizar la integridad y eficiencia de los datos.
 - **Imagen:**
-  ![Base de datos clínica dental](https://via.placeholder.com/600x300?text=Imagen+del+proyecto)
+  ![Base de datos clínica dental](images/basedatos.png)
 
 ---
 
@@ -47,7 +47,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - **Estado:** Terminado ✅
 - **Descripción:** Un juego de dominó desarrollado en Java, aplicando principios de programación orientada a objetos para modelar las fichas, las reglas del juego y la interacción entre los jugadores.
 - **Imagen:**
-  ![Juego de dominó](https://via.placeholder.com/600x300?text=Imagen+del+proyecto)
+  ![Juego de dominó](images/ficha.png)
 
 ---
 
