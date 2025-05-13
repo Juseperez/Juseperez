@@ -31,7 +31,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - **Estado:** Terminado ✅
 - **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas y árboles binarios para optimizar la búsqueda y organización de contactos.
 - **Imagen:**
-  ![Sistema de contactos](images/estructura.png)
+  ![Sistema de contactos](images/estructura.PNG)
 
 ---
 
