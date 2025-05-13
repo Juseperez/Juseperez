@@ -29,14 +29,14 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### 1. [Sistema de contactos usando Estructura de Datos](https://github.com/Juseperez/EstructurasProyecto)
 - **Estado:** Terminado ✅
-- **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas y árboles binarios para optimizar la búsqueda y organización de contactos.
+- **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas, iteradores y comparadores para optimizar la búsqueda y organización de contactos en Java.
   ![Sistema de contactos](images/estructura.PNG)
 
 ---
 
 ### 2. [Base de datos para una Clínica Dental usando MySQL](https://github.com/SKEIILAT/proyectoBD)
 - **Estado:** Terminado ✅
-- **Descripción:** Proyecto que desarrolla una base de datos completa para la gestión de pacientes, citas y tratamientos en una clínica dental, utilizando MySQL para garantizar la integridad y eficiencia de los datos.
+- **Descripción:** Proyecto que desarrolla una base de datos que permite agregar, editar, actualizar, eliminar y hacer consultas de pacientes, dentistas, citas y tratamientos en una clínica dental, utilizando MySQL para garantizar la integridad y eficiencia de los datos y la interface fue creada en Python.
   ![Base de datos clínica dental](images/basedatos.PNG)
 
 ---
