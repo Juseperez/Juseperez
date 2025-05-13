@@ -20,8 +20,18 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ---
 
 ## Tecnologías
-- **Bases de datos:** MySQL
+- **Bases de datos:** MySQL, PyMySQL  
+  Usado en el proyecto de la clínica dental para gestionar la base de datos de pacientes, dentistas, citas y tratamientos.
 - **Lenguajes de programación:** Java, Python
+- **Frameworks y bibliotecas:**  
+  - **JavaFX:** Utilizado para la interfaz gráfica del proyecto de dominó.  
+  - **Tkinter:** Usado para la interfaz gráfica del proyecto de la clínica dental.
+- **Estructuras y utilidades:**  
+  - **ArrayList:** Implementado en el proyecto de dominó para gestionar las fichas.  
+  - **HashMap:** Utilizado en el proyecto de contactos para organizar y buscar información de manera eficiente.  
+  - **Comparator:** Aplicado en el proyecto de contactos para ordenar y comparar datos.  
+  - **Serializable:** Usado en el proyecto de contactos para guardar y cargar datos de manera persistente.  
+  - **Random:** Implementado en el proyecto de dominó para generar jugadas aleatorias.
 
 ---
 
