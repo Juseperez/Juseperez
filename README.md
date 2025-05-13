@@ -29,7 +29,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### 1. [Sistema de contactos usando Estructura de Datos](https://github.com/Juseperez/EstructurasProyecto)
 - **Estado:** Terminado ✅
-- **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas, iteradores y comparadores para optimizar la búsqueda y organización de contactos en Java.
+- **Descripción:** Este proyecto implementa un sistema de contactos utilizando estructuras de datos avanzadas como listas enlazadas, iteradores y comparadores para optimizar la búsqueda y organización de contactos en Java. <br>
   ![Sistema de contactos](images/estructura.PNG)
 
 ---
